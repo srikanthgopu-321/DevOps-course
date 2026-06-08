@@ -1,16 +1,24 @@
 **linux:**
 
-  linux file sysytem
+  linux file sysytem 
+    ls, pwd, cd/path
   
   searching and filtering
-  
+    grep, find, cut, sed, 
   networking tools
-  
+    ip a (To show Ip address)
+    ping
+    curl <url>
+    hostname
+    netstat -tulpn (list listing port)
   system services
-  
+    systemctl status service
   storage and Disk management
+    lsblk
+    mount /dev/sdX/mnt
   
   Environment Variables
+    *echo $PATH
   
   logs and security
   
