@@ -106,7 +106,3 @@ git push origin main
 ```
 
 ---
-
-## Let's Get Started!
-
-Git is one of the most widely used version control systems in software development. Mastering Git will help you track changes, collaborate efficiently, and manage code with confidence.
