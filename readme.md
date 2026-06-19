@@ -2,4 +2,4 @@
 
 ### Table of Contents
 
-- [Git Notes]{./deployment.md}
+- [Git Notes](./deployment.md)
